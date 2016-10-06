@@ -4,7 +4,7 @@ Esta é uma aplicação python-based que gera visualizações gráficas a partir
 
 ## Requirements
 
-* Python 2.7
+* Python 2.7 >=
 
 ## Documentação
 
